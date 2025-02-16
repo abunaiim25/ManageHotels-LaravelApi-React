@@ -15,3 +15,19 @@
 ![Screenshot 2025-02-16 160411](https://github.com/user-attachments/assets/2686b609-336e-4756-954e-3f8d48ae4ea0)
 ### Login with Google 
 ![Screenshot 2025-02-16 160347](https://github.com/user-attachments/assets/7141e201-7657-4f43-b58a-634cfc79f880)
+
+# Create Hotel
+![Screenshot 2025-02-16 160939](https://github.com/user-attachments/assets/c89c3506-11c7-4028-aaf0-8675e391c60b)
+![Screenshot 2025-02-16 160954](https://github.com/user-attachments/assets/fd71a97c-e61c-48e9-b758-b5d065bfe620)
+
+# Property Details
+![Screenshot 2025-02-16 160939](https://github.com/user-attachments/assets/ed33d35b-0233-4198-92f4-f873a41ba9b8)
+![Screenshot 2025-02-16 160838](https://github.com/user-attachments/assets/3020cc25-af35-4754-a338-1f0c28f99ce1)
+
+
+
+
+
+
+
+
