@@ -22,11 +22,7 @@
 
 # Property Details
 ![Screenshot 2025-02-16 160939](https://github.com/user-attachments/assets/ed33d35b-0233-4198-92f4-f873a41ba9b8)
-![Screenshot 2025-02-16 160838](https://github.com/user-attachments/assets/3020cc25-af35-4754-a338-1f0c28f99ce1)
-
-
-
-
+![Screenshot 2025-02-16 160954](https://github.com/user-attachments/assets/a4c584e9-08cc-4de5-8465-1d4e1ea4ea92)
 
 
 
