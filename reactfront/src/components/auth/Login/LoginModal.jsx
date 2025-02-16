@@ -54,7 +54,7 @@ const LoginModal = () => {
         if (res.data.status === 200) {
           localStorage.setItem('auth_token', res.data.token);
           localStorage.setItem('auth_name', res.data.username);
-          window.location.reload(); 
+          //window.location.reload(); 
           swal("Success", res.data.message, "success"); 
 
           // Close modal before redirecting
@@ -72,6 +72,7 @@ const LoginModal = () => {
           if (res.data.role === 'admin') {
             history.push('/admin/dashboard');
           } else {
+            window.location.reload();
             history.push('/');
           }
         } else if (res.data.status === 401) {
