@@ -1,0 +1,32 @@
+ li{
+    font-weight: 700;
+}
+
+.btn_logout{
+    background-color: brown;
+    color: white;
+    padding: 5px 20px 5px 20px;
+    border-radius: 10px;
+    border: none;
+}
+
+.linkbtn{
+    background: rgb(76, 76, 237)!important;
+}
+
+.card_title{
+    font-weight: 600;
+}
+
+.card_item{
+    cursor: pointer;
+}
+
+.card_item:hover{
+    background-color: rgb(213, 213, 218);
+}
+
+.propertyDetails{
+    background-color: bisque;
+    height: 100vh;
+}
