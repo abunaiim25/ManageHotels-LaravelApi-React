@@ -37,6 +37,11 @@ email: rayhan@ba-systems.com
 password: 11111111
 ![Screenshot 2025-02-16 162720](https://github.com/user-attachments/assets/96618915-e369-4619-bfc8-e2b673cbbea5)
 
+## Not Found & Error Page
+![Screenshot 2025-02-16 214749](https://github.com/user-attachments/assets/5b74683c-3934-4e5e-891a-9307c145c5ef)
+
+
+
 
 
 
